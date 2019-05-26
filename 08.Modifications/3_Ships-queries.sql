@@ -15,4 +15,4 @@ DELETE FROM ships
 UPDATE classes
    SET bore=bore*2.5;
 UPDATE classes
-   SET displacement=displacement/1.1;
+   SET displacement=displacement/1.1; 
